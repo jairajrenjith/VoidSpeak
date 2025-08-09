@@ -2,4 +2,4 @@
 
 https://jairajrenjith.github.io/VoidSpeak/
 
-(COMPLETELY USELESS)
+(Replies with a single character throughout the chat)
